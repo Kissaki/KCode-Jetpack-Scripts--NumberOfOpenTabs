@@ -1,0 +1,10 @@
+{
+    "description": "", 
+    "license": "LGPL + attribution", 
+    "author": "KCode (KCode.de)", 
+    "dependencies": [
+        "jetpack-core"
+    ], 
+    "version": "1.0", 
+    "id": "jid0-aXuaLpsQGBiv3CwUpYzcdEw8PY4"
+}
